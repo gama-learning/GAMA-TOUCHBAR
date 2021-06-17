@@ -59,7 +59,13 @@ Mute and Esc button exist at all levels of the GAMA-TOUCHBAR, this is to help yo
 
 #### Root
 
-At the top level (root level) you will see the bar as below. The left most blue set is for code navigation. If you want to search for occurences of a variable in a model, you can search in forward (:fast_forward:  ) or backward (:rewind: ) direction. The magnifying glass (:mag: )is used for looking for a variable in the model outline. **aA** helps you refactor a variable in the entire model and the anchor button (:anchor: ) looks for the declaration of a variable (object).
+At the top level (root level) you will see the bar as below. The left most blue set is for code navigation. 
+
+- If you want to search for occurences of a variable in a model, you can search in forward (:fast_forward:  ) or backward (:rewind: ) direction. 
+
+- The magnifying glass (:mag: )is used for looking for a variable in the model outline. 
+- **aA** helps you refactor a variable in the entire model and 
+- the anchor button (:anchor: ) looks for the declaration of a variable (object).
 
 ![root](root.png)
 
@@ -67,7 +73,25 @@ At the top level (root level) you will see the bar as below. The left most blue 
 
 #### Quick Syntax
 
-The quick syntax toolbar gives you access to all the basic templates you need to build a simple model. The orange buttons with two parallel lines || indicate that you have more options to explore, so touch them to see further options. 
+The quick syntax toolbar gives you access to all the basic templates you need to build a simple model. The orange buttons with two parallel lines || indicate that you have more options to explore, so touch them to see further options. You will find:
+
+- reflex
+
+- species/ grid 
+
+- action
+
+- loops
+
+- experiment
+
+- :chart_with_upwards_trend: series chart
+
+- monitor
+
+- parameter
+
+  
 
 ![quick](quick.png)
 
