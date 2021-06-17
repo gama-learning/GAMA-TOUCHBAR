@@ -1,4 +1,12 @@
 # GAMA-TOUCHBAR
+Creator: Srirama Bhamidipati
+
+Date: 17 June 2021
+
+
+
+
+
 GAMA-TOUCHBAR is a BTT preset for GAMA. This preset helps GAMA users to quickly add GAML templates to their code. The idea is to help beginners with GAML templates and advanced users can modify it themselves or contribute it to this project. 
 
 
@@ -31,7 +39,7 @@ Please post issues to request for new features.
 
 #### Mandatory
 
-Mute and Esc button exist at all levels of the GAMA-TOUCHBAR, this is to help you mute your system volume in an urgent or unexpected situation without having to quit GAMA-TOUCHBAR. 
+Mute and Esc button exist at all levels of the GAMA-TOUCHBAR, this is to help you mute your system volume in an urgent or unexpected situation without having to quit GAMA-TOUCHBAR; same for esc, if you wish to cancel any menu operations while using GAMA, esc acts as the default esc key on a keyboard. 
 
 
 
@@ -53,7 +61,7 @@ The quick syntax toolbar gives you access to all the basic templates you need to
 
 #### Simulation 
 
-This toolbar gives access to run your simulation. This has be deliberately made to mimic GAMA toolbar, therefore buttons are self-explanatory 
+This toolbar gives access to run your simulation. This has been deliberately made to mimic GAMA toolbar, therefore buttons are self-explanatory 
 
 ![simulation](simulation.png)
 
