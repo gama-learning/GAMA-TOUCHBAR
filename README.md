@@ -10,8 +10,8 @@ Please post issues to request for new features.
 ## Requirements
 
 1. Apple laptops with a Touch Bar and running macOS 
-2. BetterTouchTool (BTT)
-3. GAMA installed
+2. BetterTouchTool (BTT) https://folivora.ai/ 
+3. GAMA installed https://gama-platform.github.io/
 
 
 
