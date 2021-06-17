@@ -15,6 +15,16 @@ Please post issues to request for new features.
 
 
 
+## Motivation 
+
+- To remove fear in beginners to remember all the required GAML code
+- To help intermediate users to speed up writing code.
+- To push developers to think in the direction of "touch friendly" design of GAMA.
+
+
+
+
+
 ## Requirements
 
 1. Apple laptops with a Touch Bar and running macOS 
