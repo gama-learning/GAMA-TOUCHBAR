@@ -5,7 +5,7 @@ Date: 17 June 2021
 
 
 
-<img src="relaxing.svg" alt="relaxing" style="zoom:50%;" />
+![](relaxing-3943354.svg){:height="50%" width="50%"}
 
 
 
