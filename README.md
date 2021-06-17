@@ -7,7 +7,11 @@ Date: 17 June 2021
 
 
 
-GAMA-TOUCHBAR is a BTT preset for GAMA. This preset helps GAMA users to quickly add GAML templates to their code. The idea is to help beginners with GAML templates and advanced users can modify it themselves or contribute it to this project. 
+
+
+
+
+GAMA-TOUCHBAR is a BTT preset for GAMA. This preset helps GAMA users to quickly write code by adding GAML templates with the touch of a finger. The idea is to help beginners with GAML templates and advanced users tomodify it themselves or contribute  to this project. 
 
 
 
