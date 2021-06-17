@@ -9,9 +9,9 @@ Date: 17 June 2021
 
 
 
+
+
 ![relaxing](relaxing.png)
-
-
 
 
 
@@ -70,7 +70,7 @@ At the top level (root level) you will see the bar as below. The left most blue 
 - If you want to search for occurences of a variable in a model, you can search in forward (:fast_forward:  ) or backward (:rewind: ) direction. 
 
 - The magnifying glass (:mag: )is used for looking for a variable in the model outline. 
-- **aA** helps you refactor a variable in the entire model and 
+- **aA** helps you refactor/rename a variable in the entire model and 
 - the anchor button (:anchor: ) looks for the declaration of a variable (object).
 
 ![root](root.png)
@@ -79,15 +79,15 @@ At the top level (root level) you will see the bar as below. The left most blue 
 
 #### Quick Syntax
 
-The quick syntax toolbar gives you access to all the basic templates you need to build a simple model. The orange buttons with two parallel lines || indicate that you have more options to explore, so touch them to see further options. You will find:
+The quick syntax toolbar gives you access to all the basic templates you need to build a simple model. The orange buttons with two parallel lines || indicate that you have more options to explore, so touch them to see further options. In this bar you will find simple templates of:
 
-- reflex
+- reflex 
 
 - species/ grid 
 
-- action
+- action (various forms of actions)
 
-- loops
+- loops (various forms of loops)
 
 - experiment
 
@@ -119,7 +119,7 @@ This bar gives you access to many GAML templates or code blocks that are difficu
 
 
 
-#### Templates> Experiments
+#### Templates > Experiments
 
 This bar gives you access to the experiment templates
 
@@ -127,7 +127,7 @@ This bar gives you access to the experiment templates
 
 
 
-#### Templates> Charts 
+#### Templates > Charts 
 
 This bar gives you access to the chart templates. This is under development. A series chart is however available in the quick syntax bar. 
 
