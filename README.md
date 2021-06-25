@@ -43,6 +43,10 @@ Please post issues to request for new features.
 
 
 
+## Download 
+
+At the right top of this page, you will see a **Releases** section, you can download the latest release from there. 
+
 
 
 ## Installation 
